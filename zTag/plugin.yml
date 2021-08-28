@@ -1,0 +1,7 @@
+name: zTags
+author: zLilDev
+version: 1.0
+main: me.lildev.Main.Main
+
+commands: 
+    tag:

@@ -1,0 +1,30 @@
+#Plugin criado por: CrowedCodes
+MotdDoServidor: '       &cSEU&bSERVER  '
+
+#Nome que vai ficar nas coisas
+NomeDoServidor: '&cSEU&bSERVER'
+
+#Mensagem para quando o player errar o comando
+ComandoErro: '&cSEU&bSERVER &9» &cComando inexistente'
+
+#Link para se aplicar no formulario
+LinkDoFormulario: '&cmude na config'
+
+#Nome do server que vai ficar na placa de recraft OBS: nao pode ser maior que 7 letras
+PlacaDeRecraft: '&cSEU&bSERVER'
+PlacaDeSopa: '&cSEU&bSERVER'
+
+#Mensagem de quando o servidor esta cheio
+Cheio: '&c&lServidor cheio, tente mais tarde'
+
+#Requisitos para tags
+Youtuber: '&eMude na config.yml'
+Pro: ' &eMude na config.yml'
+Spro: ' &eMude na config.yml'
+
+#Mensagens que ira aparecer de 30 em 30 segundos no servidor
+Mensagem1: ''
+Mensagem2: ''
+Mensagem3: ''
+Mensagem4: ''
+Mensagem5: ''

@@ -1,0 +1,68 @@
+#Plugin criado por CrowedCodes Skype : aiCrowedCodes_
+name: cPvP
+main: Main.Main
+version: 1.0
+author: CrowedCodes
+description: Um Plugin de KitPvP
+commands:
+  clearchat:
+    aliases: [cc]
+  kit:
+  kits:
+  kits2:
+  admin:
+  build:
+  tp:
+  chat:
+  staffchat:
+    aliases: [sc, staffchat, cs]
+  warps:
+  crash:
+  tag:
+  tags:
+  invsee:
+  setspawn:
+  spawn:
+  setfps:
+  fps:
+  setrdm:
+  rdm:
+  setmdr:
+  mdr:
+  setchallenge:
+  challenge:
+  setknockback:
+  knockback:
+  setmain:
+  main:
+  arena:
+  youtuber:
+  fly:
+  gm:
+  head:
+  lag:
+  ping:
+  status:
+  recraft:
+  report:
+  loja:
+  tpall:
+  doar:
+     aliases: [pay]
+  gratis:
+  aplicar:
+  togglepvp:
+     aliases: [pvp]
+  doarcaixa:
+  comprarcaixa:
+  caixa:
+  kitpos1:
+  kitpos2:
+  kitpos3:
+  kitpos4:
+  kitpos5:
+  rank:
+  set1v1:
+  setpos1:
+  setpos2:
+  1v1:

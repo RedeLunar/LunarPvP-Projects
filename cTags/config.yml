@@ -1,0 +1,27 @@
+#########################################################
+#                  (=[ VapeMC ]=)                       #
+#          Inicializaçao: 15/05/2018                    #
+#            Terminio: (Intermediario)                  #
+#                                                       #
+#                Credits: aiCrowedCodes                 #
+#                                                       #
+#########################################################
+
+
+## - Config's Motd - ##
+Motd: '&e&lVape&f&lMc» &7(1.7.*)(1.8.*)'
+Motd2: '&eVENHA VER NOSSAS ATUALIZAÇOES ! !'
+
+
+## - Config's Mensagems - ##
+Mensagem1: '&7Compre seu vip e tenha varias vantagens no servidor.'
+Mensagem2: '&7Divulgue o servidor para seus amigos.'
+Mensagem3: '&7Quer ser youtuber? Grave no servidor e manda o link do video para um superior.'
+Mensagem4: '&7Achou um Hack : Use: /report <nick> <motivo>.'
+Mensagem5: '&7Ajude-nos a manter o servidor sempre online, comprando seu vip em: '
+
+## - Config's Aplicar - ##
+Builder: '&e&lConstrução.'
+Helper: '&e&lConstrução.'
+Trial: '&e&l'
+GcDetector: ''
